@@ -42,6 +42,8 @@ Example
 
 參考資源(resource):
 
+[How to Code: Collision Detection Part II](https://youtu.be/789weryntzM)
+
 [Physics: Mechanics - Conservation of Momentum](https://www.youtube.com/watch?v=0sbzWZhOG10)
 
 [Momentum in 2D - A Level Physics](https://www.youtube.com/watch?v=NzgIGd0MbR4&t=786s)
